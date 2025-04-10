@@ -1,5 +1,5 @@
 # RSA-on-FPGA
-FPGA Implementation of RSA Algorithm using Xilinx Vivado 2020.2
+FPGA Implementation of 32-bit RSA Algorithm using Xilinx Vivado 2020.2
 
 Implementation: Staright forward implementation using FSM approach and binary eponentiation.
 
